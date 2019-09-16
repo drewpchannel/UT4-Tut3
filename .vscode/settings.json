@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"D:/UT4/BattleTank/.vscode": true,
+		"D:/UT4/BattleTank/Content": true,
+		"D:/UT4/BattleTank/Intermediate": true
+	}
+}
